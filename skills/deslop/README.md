@@ -23,7 +23,6 @@ After installation, talk to Claude as you normally do. The skill triggers automa
 You can also reference the skill directly:
 
 - "Review this draft using the deslop checklist"
-- "Score this text on the deslop rubric"
 - "Rewrite this paragraph to pass the deslop quick checks"
 
 ## Scoring rubric
