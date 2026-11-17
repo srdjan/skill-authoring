@@ -46,6 +46,9 @@ Below 35/50: revise.
 deslop/
 ├── SKILL.md              # Router for edit and detect modes
 ├── README.md             # This file
+├── LICENSE               # MIT license
+├── agents/
+│   └── openai.yaml       # OpenAI interface metadata
 └── references/
     ├── edit.md           # Rewrite playbook and scoring rubric
     ├── detect.md         # Findings without a rewrite
