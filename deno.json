@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "check": "deno run --no-config --allow-read skills/skill-diet/scripts/eval.mjs check skills/create-skill && deno run --no-config --allow-read skills/skill-diet/scripts/eval.mjs check skills/deslop && deno run --no-config --allow-read skills/skill-diet/scripts/eval.mjs check skills/skill-diet"
+  }
+}

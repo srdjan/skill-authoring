@@ -1,0 +1,7 @@
+interface:
+  display_name: "Deslop"
+  short_description: "Remove AI writing patterns from prose"
+  default_prompt: "Use $deslop to strip AI tells and formulaic patterns from writing, making prose sound human."
+
+policy:
+  allow_implicit_invocation: true
