@@ -159,18 +159,8 @@ oracle. Record model and date when behavior tests depend on a live model.
 ## Reference Model: Impeccable
 
 `pbakaus/impeccable` informed this architecture at commit
-`32930818a109fafa87199babe92fa8e530cff5d3` from 2026-07-30. Its transferable
-design is:
-
-- one user-facing skill routes many commands to on-demand references,
-- one context script loads durable project state once per session,
-- scripts own deterministic detection and live operations,
-- specialist agent sources compile into provider-native agents,
-- required agent roles also compile into inline degraded references,
-- one neutral source builds tracked or packaged provider outputs,
-- structural build tests cover provider transforms,
-- live-model behavior tests assert tool traces and workflow order.
-
-Do not copy its product-specific size into a smaller skill. Reuse the separation
-of concerns and the proof model. Source:
+`32930818a109fafa87199babe92fa8e530cff5d3` from 2026-07-30. The levels and
+validation layers above carry most of its transferable design. It also uses
+one context script that loads durable project state once per session. Do not copy its
+product-specific size into a smaller skill. Source:
 <https://github.com/pbakaus/impeccable/tree/32930818a109fafa87199babe92fa8e530cff5d3>.
