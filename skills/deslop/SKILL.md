@@ -1,6 +1,6 @@
 ---
 name: deslop
-description: Remove AI writing patterns from prose. Use when writing, editing, or reviewing any text to strip predictable AI tells, slop, and formulaic patterns. Applies to blog posts, scientific writing, memos, newsletters, and any substantial prose. Do not use for code or code comments, headline generation, or casual chat messages.
+description: Remove AI writing patterns from prose. Use when writing, editing, or reviewing text to strip AI tells, slop, and formulaic patterns, or to humanize a draft. Applies to blog posts, scientific writing, memos, newsletters, and any substantial prose. Do not use for code or code comments, headline generation, or casual chat messages.
 ---
 
 # Deslop
@@ -23,8 +23,6 @@ Load a reference only when the work reaches it.
 
 | Resource | Load when |
 | --- | --- |
-| [references/edit.md](references/edit.md) | You write or revise the prose |
-| [references/detect.md](references/detect.md) | You report AI writing patterns without rewriting |
 | [references/phrases.md](references/phrases.md) | You need the phrase-level tell catalog |
 | [references/structures.md](references/structures.md) | You need the structural tell catalog |
 | [references/tropes.md](references/tropes.md) | You need the trope catalog |
