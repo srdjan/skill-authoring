@@ -6,7 +6,7 @@ A Claude skill for removing AI writing patterns from prose.
 
 When you write, draft, edit, or review text, `deslop` finds and removes predictable AI tells: formulaic sentence structures, filler phrases, false agency, dramatic fragmentation, vague declaratives, and dozens of other patterns.
 
-The rules apply to any prose. The examples lean toward scientific writing and technical blog posts. In scientific text, the skill keeps field conventions such as passive voice in methods sections and domain-specific terminology.
+The rules apply to any prose. The examples lean toward scientific writing and technical blog posts. In scientific text, the skill keeps the formal register and precise domain terminology. It replaces passive voice only when a useful actor exists.
 
 ## Installation
 
