@@ -34,7 +34,8 @@ self-posed questions, and anaphora or tricolon abuse. Use
 
 Remove empty magic adverbs, the "serves as" dodge, false ranges, superficial
 participle analysis, invented labels, inflated stakes, and false vulnerability.
-Use [tropes.md](tropes.md) for the full catalog.
+Find these tropes in [phrases.md](phrases.md), [structures.md](structures.md),
+and [tropes.md](tropes.md).
 
 ### 4. Use active voice with human subjects
 

@@ -27,7 +27,7 @@ Load a reference only when the work reaches it.
 | [references/detect.md](references/detect.md) | You report AI writing patterns without rewriting |
 | [references/phrases.md](references/phrases.md) | You need the phrase-level tell catalog |
 | [references/structures.md](references/structures.md) | You need the structural tell catalog |
-| [references/tropes.md](references/tropes.md) | You need the full trope catalog |
+| [references/tropes.md](references/tropes.md) | You need the trope catalog |
 | [references/examples.md](references/examples.md) | You need a pattern-specific before-and-after example |
 
 ## Maintenance

@@ -251,7 +251,7 @@ Latching onto a single metaphor and using it in every paragraph. A human writer 
 
 ## Invented Concept Labels
 
-AI clusters invented compound labels that sound analytical without being grounded. It appends abstract problem-nouns (paradox, trap, creep, divide, vacuum, inversion) to domain words and uses them as if they are established terms.
+AI clusters invented compound labels that sound analytical without being grounded. It appends abstract problem-nouns (paradox, trap, creep, divide, vacuum, inversion) to domain words and uses them as if they are established terms. Several such labels in one piece are a strong signal of AI slop.
 
 | Pattern | Problem |
 |---------|---------|

@@ -199,7 +199,7 @@ Sentences that announce importance without naming the specific thing. Kill these
 
 ## Vague Attributions
 
-Attributing claims to unnamed authorities. If you cannot name the source, you do not have one.
+Attributing claims to unnamed authorities. If you cannot name the source, you do not have one. AI also inflates the source count: it presents one person's view as widely held, or writes "several publications" when it means two.
 
 - "Experts argue that..."
 - "Industry reports suggest that..."

@@ -54,7 +54,7 @@ deslop/
     ├── detect.md         # Findings without a rewrite
     ├── phrases.md        # Phrases to remove or replace
     ├── structures.md     # Structural patterns to avoid
-    ├── tropes.md         # Full catalog of AI writing tropes
+    ├── tropes.md         # Catalog of AI writing tropes
     └── examples.md       # Before/after transformations
 ```
 
