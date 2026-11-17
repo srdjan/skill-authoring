@@ -30,7 +30,7 @@ Load a reference only when the work reaches it.
 
 ## Maintenance
 
-- Last verified: 2026-09-08
+- Last verified: 2026-11-17
 - Target versions: voice skill, no library pins
 - Owner: srdjan
 - Re-verify when: new AI tells become common through model-version drift, or
