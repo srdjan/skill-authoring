@@ -4,9 +4,9 @@ A Claude skill for removing AI writing patterns from prose.
 
 ## What it does
 
-When you write, draft, edit, or review text, `deslop` identifies and eliminates predictable AI tells. Those include formulaic sentence structures, filler phrases, false agency, dramatic fragmentation, and vague declaratives. Dozens of other patterns signal machine-generated writing.
+When you write, draft, edit, or review text, `deslop` finds and removes predictable AI tells: formulaic sentence structures, filler phrases, false agency, dramatic fragmentation, vague declaratives, and dozens of other patterns.
 
-The skill works across any prose context. Examples are weighted toward scientific writing and technical blog posts. The rules apply to any writing where you want a human voice without the AI veneer. For scientific contexts, the skill accounts for conventions such as passive voice in methods sections and domain-specific terminology.
+The rules apply to any prose. The examples lean toward scientific writing and technical blog posts. In scientific text, the skill keeps field conventions such as passive voice in methods sections and domain-specific terminology.
 
 ## Installation
 
@@ -14,9 +14,9 @@ See the [repository README](../../README.md) for installation and checks.
 
 ## How to use it
 
-Install as described above, then use it like you normally talk to Claude. The skill triggers automatically when you:
+After installation, talk to Claude as you normally do. The skill triggers automatically when you:
 
-- Ask Claude to write prose (blog posts, essays, articles, memos, newsletters) making it sound natural instead of AI-generated
+- Ask Claude to write prose, such as a blog post, essay, article, memo, or newsletter, that sounds natural instead of AI-generated
 - Ask Claude to "deslop", "de-AI" or "make it sound human"
 - Ask Claude to check for "slop" or AI patterns
 
@@ -57,10 +57,10 @@ deslop/
 
 ## Acknowledgments
 
-This skill was built in part by combining and synthesizing material from two open sources:
+Parts of this skill adapt material from two open sources:
 
-- **AI writing tropes catalog** from [tropes.fyi](https://tropes.fyi/) by [Ossama Hassanein](https://ossama.is). The `references/tropes.md` file is adapted from this source, and trope patterns are integrated throughout the other reference files.
-- **stop-slop** from [github.com/hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) by [Hardik Pandya](https://hvpandya.com). The phrase lists, structural patterns, before/after examples, scoring rubric, and quick checks draw from this project.
+- The AI writing tropes catalog from [tropes.fyi](https://tropes.fyi/) by [Ossama Hassanein](https://ossama.is). The `references/tropes.md` file is adapted from this source, and its trope patterns appear throughout the other reference files.
+- stop-slop from [github.com/hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) by [Hardik Pandya](https://hvpandya.com). The phrase lists, structural patterns, before/after examples, scoring rubric, and quick checks draw from this project.
 
 ## License
 
