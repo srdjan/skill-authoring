@@ -1,6 +1,6 @@
 ---
 name: create-skill
-description: Create, extract, audit, or modernize agent skills. Use when a repeated workflow or reference repository needs a clear trigger, thin router, on-demand references, deterministic scripts, narrow agents, generated metadata, and behavior tests. Do not use for third-party skill installation or discovery, ordinary documentation, or product code that does not change a skill.
+description: Create, extract, audit, or modernize agent skills. Use when a repeated workflow or reference repository must become a skill, or a skill's architecture needs review or update. Do not use for third-party skill installation or discovery, ordinary documentation, or product code that does not change a skill.
 ---
 
 # Create Skill
