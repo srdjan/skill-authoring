@@ -1,7 +1,6 @@
 # AI Writing Tropes to Avoid
 
-Add this file to your AI assistant's system prompt or context to help it avoid
-common AI writing patterns. Source: [tropes.fyi](https://tropes.fyi) by [ossama.is](https://ossama.is)
+Source: [tropes.fyi](https://tropes.fyi) by [ossama.is](https://ossama.is)
 
 ---
 
